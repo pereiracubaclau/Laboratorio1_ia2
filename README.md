@@ -3,8 +3,7 @@ Laboratorio1_ia2
 # Laboratorio 01 (01/2026) - Clasificacion con Perceptron Multicapa (MLP)
 
 **Estudiante:** Claudia Pereira Cuba  
-**Materia:** SIS325  
-**Grupo:** G6 - TECHMOCK-AI  
+**Materia:** SIS421
 **Archivo del laboratorio:** `lab1_mlp_fashion_mnist_claudia_pereira.ipynb`
 
 ---
