@@ -138,15 +138,12 @@ Las categorias con mejor desempeno son Pantalon, Sandalia y Bolso. Las categoria
 ## Estructura del repositorio
 
 ```
-sis325-g6-techmock-ai/
-|
+
 +-- lab1_mlp_fashion_mnist_claudia_pereira.ipynb   # Notebook principal
-+-- README.md                                       # Este archivo
+
 ```
 
 ---
 
-## Enunciado del laboratorio
 
-Construya un MLP para clasificacion utilizando un dataset novedoso y creativo de su preferencia. Se debe aplicar las tecnicas de optimizacion, regularizacion y buenas practicas. Se debe realizar un analisis y presentacion completa, ilustrativa y didactica de los resultados generados utilizando graficas y la matriz de confusion principalmente.
 
